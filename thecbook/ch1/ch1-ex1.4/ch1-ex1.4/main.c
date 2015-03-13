@@ -68,7 +68,7 @@ int main(void){
     // reset index
     index=0;
     
-    // for each value in index, o/p to screen
+    // for each value in index, o/p to screen hello
     while (index < ARSIZE ) {
         printf("ch_arr[%d]: %d\n", index, ch_arr[index]);
         index++;
