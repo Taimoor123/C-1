@@ -1,6 +1,10 @@
 # C
 Programs and Exercises in the C programming language
 
-hello
+Contents
 
-there
+******
+
+Exercises from the C Book
+
+******
