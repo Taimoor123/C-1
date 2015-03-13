@@ -55,7 +55,7 @@ int integer_from_getchar(){
     while (ch != '\n'){
         // multiply o/p by 10
         output *= 10;
-        // add character value to
+        // add character value to output
         output += (ch - '0');
         // get next character
         ch = getchar();
