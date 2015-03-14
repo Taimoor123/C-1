@@ -6,9 +6,18 @@
 //  Copyright (c) 2015 Leon Hughes. All rights reserved.
 //
 
+/*
+ 
+exercise 1.5
+Again using the function from Exercise 1.3, write a program that will read numbers from its input,
+ then print them out in binary, decimal and hexadecimal form.
+ 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
+// prototypes
 int integer_from_getchar();
 void hex_from_int(int int_value);
 void bin_from_int(int int_value);
