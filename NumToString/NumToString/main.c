@@ -15,7 +15,6 @@ char* tens_given_index(int index);
 void print_string_number(int value);
 
 int main(void) {
-    // insert code here...
 
     // setup variables
     int value = 0;
