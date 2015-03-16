@@ -121,6 +121,6 @@ char* teens_given_index(int index){
 char* tens_given_index(int index){
     // recalculate index for offset incurred
     index -= 2;
-    char *str[9] = {"twenty", "thirty", "fourty", "fifty", "sixty", "seventy", "eighty", "ninety"};
+    char *str[8] = {"twenty", "thirty", "fourty", "fifty", "sixty", "seventy", "eighty", "ninety"};
     return str[index];
 }
